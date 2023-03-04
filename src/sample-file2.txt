@@ -1,2 +1,3 @@
-I am Sample File2 modified => master
-We have to follow some steps and rocedure to make this done.
+I am Sample File2 modified
+I am develop branch.
+
