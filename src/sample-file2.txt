@@ -1,3 +1,5 @@
 I am Sample File2 modified
 I am develop branch.
 Git reset testing
+
+Checking some changes are not available here.
